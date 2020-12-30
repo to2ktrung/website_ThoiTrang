@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82984a3-f49b-4345-988f-b49b06e38538" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admin_login.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +140,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\git_ThoiTrang\website_ThoiTrang\public\backend" />
       <recent name="C:\xampp\htdocs\git_ThoiTrang\website_ThoiTrang\public\frontend" />
       <recent name="C:\xampp\htdocs\git_ThoiTrang\website_ThoiTrang" />
     </key>
@@ -156,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609307860153</updated>
-      <workItem from="1609307861835" duration="3797000" />
+      <workItem from="1609307861835" duration="4482000" />
     </task>
     <servers />
   </component>

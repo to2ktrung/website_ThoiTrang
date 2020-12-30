@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Front end
 Route::get('/', 'HomeController@index');
-
 Route::get('/trangchu', 'HomeController@index');
+
+// Back end
+Route::get('/admin/login', 'AdminController@login_page');
