@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 p-0">
-                    <div class="testimonial__pic set-bg" data-setbg="img/about/testimonial-pic.jpg"></div>
+                    <div class="testimonial__pic set-bg" data-setbg="{{asset('public/frontend/img/about/testimonial-pic.jpg')}}"></div>
                 </div>
             </div>
         </div>
