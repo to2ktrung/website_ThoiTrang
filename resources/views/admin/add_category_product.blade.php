@@ -236,9 +236,7 @@
                             <button type="submit" class="btn btn-primary">Thêm mới</button>
                         </form>
                     </div>
-
                 </div>
-
             </div>
 
         </div>

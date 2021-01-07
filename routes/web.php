@@ -16,6 +16,14 @@ use Illuminate\Support\Facades\Route;
 // Front end
 Route::get('/', 'HomeController@index');
 Route::get('/trangchu', 'HomeController@index');
+Route::get('shop', 'HomeController@shop');
+Route::get('/blog', 'HomeController@blog');
+Route::get('/lienhe', 'HomeController@contact');
+Route::get('/about_us', 'HomeController@about_us');
+Route::get('/shop_details', 'HomeController@shop_details');
+Route::get('/shopping_cart', 'HomeController@shopping_cart');
+Route::get('/check_out', 'HomeController@check_out');
+Route::get('/blog_details', 'HomeController@blog_details');
 
 // Back end
 Route::get('/admin/login', 'AdminController@login_page');
